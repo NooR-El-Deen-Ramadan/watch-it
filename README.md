@@ -1,6 +1,6 @@
 # 🎬 Watch It
 
-This project is a **Java-based clone of the real streaming website "Watch It"**. Built entirely in **Java** with a **JavaFX GUI**, it demonstrates full **Object-Oriented Programming (OOP)** principles while allowing users to explore, rate, and manage movies and TV shows in a visually interactive interface.  
+This project is a **Java-based  clone of the real streaming website "Watch It"**. Built entirely in **Java** with a **JavaFX GUI**, it demonstrates full **Object-Oriented Programming (OOP)** principles while allowing users to explore, rate, and manage movies and TV shows in a visually interactive interface.  
 
 ## 🚀 Features
 
